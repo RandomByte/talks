@@ -1,4 +1,4 @@
-# [[UI5con] UI5 Build and Development Tooling](./UI5con_at_SAP_2018)
+# [UI5con] UI5 Build and Development Tooling
 
 When | Where | Who
 ---- | ----- | ----
