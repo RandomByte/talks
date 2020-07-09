@@ -17,7 +17,7 @@ June 30, 2017 | [UI5con@SAP](http://openui5.org/ui5con/) | [@matz3](https://gith
 
 [Details](./UI5con_at_SAP_2017) | [Video](https://www.youtube.com/watch?v=TceM3zf8VSk)
 
-## [UI5con] UI5 Tooling 2020
+## [[UI5con] UI5 Tooling 2020](./UI5con_ON_AIR_2020)
 
 When | Where | Who
 ---- | ----- | ----
