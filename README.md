@@ -23,4 +23,4 @@ When | Where | Who
 ---- | ----- | ----
 July 9, 2020 | [UI5con ON AIR](https://openui5.org/ui5con/onair2020/) | [@matz3](https://github.com/matz3) and myself
 
-[Details](./UI5con_ON_AIR_2020)
+[Details](./UI5con_ON_AIR_2020) | [Video](https://www.youtube.com/watch?v=8IHoVJLKN34)
