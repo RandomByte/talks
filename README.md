@@ -1,6 +1,14 @@
 # Talks
 Slides and other resources of talks I gave or was involved in
 
+## [[UI5con] UI5 Tooling 2020](./UI5con_ON_AIR_2020)
+
+When | Where | Who
+---- | ----- | ----
+July 9, 2020 | [UI5con ON AIR](https://openui5.org/ui5con/onair2020/) | [@matz3](https://github.com/matz3) and myself
+
+[Details](./UI5con_ON_AIR_2020) | [Video](https://www.youtube.com/watch?v=8IHoVJLKN34)
+
 ## [[UI5con] UI5 Build and Development Tooling](./UI5con_at_SAP_2018)
 
 When | Where | Who
@@ -16,11 +24,3 @@ When | Where | Who
 June 30, 2017 | [UI5con@SAP](http://openui5.org/ui5con/) | [@matz3](https://github.com/matz3) and myself
 
 [Details](./UI5con_at_SAP_2017) | [Video](https://www.youtube.com/watch?v=TceM3zf8VSk)
-
-## [[UI5con] UI5 Tooling 2020](./UI5con_ON_AIR_2020)
-
-When | Where | Who
----- | ----- | ----
-July 9, 2020 | [UI5con ON AIR](https://openui5.org/ui5con/onair2020/) | [@matz3](https://github.com/matz3) and myself
-
-[Details](./UI5con_ON_AIR_2020) | [Video](https://www.youtube.com/watch?v=8IHoVJLKN34)
