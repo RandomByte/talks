@@ -1,6 +1,14 @@
 # Talks
 Slides, recordings and other resources of talks I gave or was involved in
 
+## [[UI5con] How we replaced our legacy build infrastructure with UI5 Tooling](./UI5con_at_SAP_2023)
+
+When | Where | Who
+---- | ----- | ----
+July 6, 2023 | [UI5con@SAP](https://openui5.org/ui5con/germany2023/) | [@flovogt](https://github.com/flovogt) and myself
+
+[Details](./UI5con_at_SAP_2023) | [Video](https://www.youtube.com/live/aCyMC27ED80?feature=share&t=10945)
+
 ## [[SAP TechEd 2020] UI5 Tooling – The Build and Development Tooling for UI5](./TechEd_2020)
 
 When | Where | Who
