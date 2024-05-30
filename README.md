@@ -13,13 +13,13 @@ When | Where | Who
 ---- | ----- | ----
 July 6, 2023 | [UI5con@SAP](https://openui5.org/ui5con/germany2023/) | [@flovogt](https://github.com/flovogt) and myself
 
+[Details](./UI5con_at_SAP_2023) | [Video](https://www.youtube.com/live/aCyMC27ED80?feature=share&t=10945)
+
 ## Podcast: [[UI5 NewsCast] Creating UI5 Tooling](https://podcast.opensap.info/ui5-newscast/2023/06/20/ui5-newscast-032-creating-ui5-tooling/)
 
 When | Where | Who
 ---- | ----- | ----
 June 28, 2023 | [UI5 NewsCast 032](https://podcast.opensap.info/ui5-newscast/2023/06/20/ui5-newscast-032-creating-ui5-tooling/) | [@matz3](https://github.com/matz3) and myself
-
-[Details](./UI5con_at_SAP_2023) | [Video](https://www.youtube.com/live/aCyMC27ED80?feature=share&t=10945)
 
 ## [[SAP TechEd 2020] UI5 Tooling – The Build and Development Tooling for UI5](./TechEd_2020)
 
