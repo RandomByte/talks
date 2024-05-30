@@ -1,11 +1,23 @@
 # Talks
 Slides, recordings and other resources of talks I gave or was involved in
 
+## [[UI5ers live] Introducing UI5 linter](https://www.youtube.com/watch?v=dQNKmXldGUE)
+
+When | Where | Who
+---- | ----- | ----
+March 14, 2024 | [UI5ers live](https://openui5.org/events/#id=ui5ers-36) | [@matz3](https://github.com/matz3) and myself
+
 ## [[UI5con] How we replaced our legacy build infrastructure with UI5 Tooling](./UI5con_at_SAP_2023)
 
 When | Where | Who
 ---- | ----- | ----
 July 6, 2023 | [UI5con@SAP](https://openui5.org/ui5con/germany2023/) | [@flovogt](https://github.com/flovogt) and myself
+
+## Podcast: [[UI5 NewsCast] Creating UI5 Tooling](https://podcast.opensap.info/ui5-newscast/2023/06/20/ui5-newscast-032-creating-ui5-tooling/)
+
+When | Where | Who
+---- | ----- | ----
+June 28, 2023 | [UI5 NewsCast 032](https://podcast.opensap.info/ui5-newscast/2023/06/20/ui5-newscast-032-creating-ui5-tooling/) | [@matz3](https://github.com/matz3) and myself
 
 [Details](./UI5con_at_SAP_2023) | [Video](https://www.youtube.com/live/aCyMC27ED80?feature=share&t=10945)
 
