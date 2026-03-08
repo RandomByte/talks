@@ -1,4 +1,4 @@
-# [UI5con] UI5 Build and Development Tooling
+# [UI5con] How we replaced our legacy build infrastructure with UI5 Tooling
 
 When | Where | Who
 ---- | ----- | ----
